@@ -1,0 +1,3 @@
+test the output
+for the loop bin
+this is the end of the file

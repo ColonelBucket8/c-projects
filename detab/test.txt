@@ -1,0 +1,14 @@
+this is the test file
+to the file 
+do the command
+./{bin} file.txt
+" test the comment bin "
+
+// test the comment bin
+/* test the comment block */
+
+this is a tab                                                                                          
+testing for closing parenthesis (
+test brackets [
+
+
